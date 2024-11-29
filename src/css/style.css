@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+header{
+    background-color:rgb(44, 42, 42);
+    height: 150px;
+}
+header h1{
+    font-weight: 700;
+}
+#first-word{
+    color: orange;
+}
+#second-word{
+    color: white;
+}
+
+header p{
+    color: white;
+    margin-left: 100px;
+    padding-top: 5px;
+    font-size: 10px;
+}
+.button{
+    background-color:chartreuse;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 12px; 
+    margin-right: 10px;
+}
+header nav ul{
+    display: flex;
+}
+header nav{
+    margin-top: 50px;
+}
+header nav ul li{
+    list-style-type: none;
+}
+.button:active{
+    background-color:orange ;
+}
+header div{
+    margin-left: 250px;
+}
+
+/* footer styling */
+
+footer{
+    background-color: rgb(44, 42, 42);
+    color: white;
+    height: 310px;
+    font-size: xx-small;
+    font-weight: 0;
+    margin-top: 20px;
+}  
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 2px; 
+    width: 100%; 
+    box-sizing: border-box; 
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+}
+#last a{
+    color: chartreuse;
+
+}
+.links{
+    width:5%;
+    margin-top: 20px;
+
+}
+.links a{
+    margin-right: 10px;
+}
+.container{
+    display: flex;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+.container h2{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.inner-container{
+    margin-right: 20px;
+    width: 33.3%;
+}
+.inner-container section{
+    margin-top: 20px;
+
+}
+.inner-container section h4{
+    margin-bottom: 10px;
+}
+.inner-container p{
+    font-size: smaller;
+}
+#last{
+    padding-top: 20px;
+}
+#img{
+    float: left;
+    width: 80px;
+}
+br{
+    color: grey;
+}
+.last-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    gap: 120px; 
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+.last-container div {
+    flex: 1;
+}
+
+.last-container a {
+    text-decoration: none;
+    color: white; 
+    padding-top: 20px;
+    
+}
+.inner-container a{
+    color: chartreuse;
+}
+
+/*contact page main styling*/ 
+
+main{
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: smaller;
+}
+main h2{
+    color: chartreuse;
+}
+.flex{
+    display: flex;
+}
+.left-container{
+    margin-right: 30px;
+}
+.flex h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mail{
+    margin-top: 40px;
+}
+input {
+    width: 400px; 
+    height: auto; 
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.message input{
+    height: 100px;
+    margin-bottom: 0px;
+}
+.submit input{
+    margin-top: 0%;
+    width: 100px;
+}
+.sidebar p{
+    margin-bottom: 15px;
+}
+.sponsor{
+    margin-top: 40px;
+}
+#line {
+    border: none; 
+    height: .5px; 
+    background-color: rgb(129, 127, 127); 
+}
+
+
+/*about page main styling*/ 
+
+
+#mission{
+    margin-top: 50px;
+}
+.flex{
+    margin-bottom: 40px;
+}
+.left-container{
+    width: 70%;
+}
+
+
