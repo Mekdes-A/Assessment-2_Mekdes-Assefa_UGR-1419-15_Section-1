@@ -1,4 +1,5 @@
-[Check out the Deployed one Here](https://www.google.com](https://hiwot-beyene.github.io/Assessment-2_Mekdes-Assefa_UGR-1419-15_Section-1)
+[Check out the Deployed one Here](https://hiwot-beyene.github.io/Assessment-2_Mekdes-Assefa_UGR-1419-15_Section-1/)
+
 ![screenshot](src/screenshots/1.jpg)
 ![screenshot](src/screenshots/2.jpg)
 ![screenshot](src/screenshots/3.jpg)
